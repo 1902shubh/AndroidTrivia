@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTrivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+
+    <string name="about_app">This app is developed by Papaya Coders for Kotlin Lovers.
+    In this you will learn lots of topic. In very amazing way.</string>
+</resources>
